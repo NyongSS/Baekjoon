@@ -2,7 +2,7 @@
 #include <cmath>
 using namespace std;
 int n, m;
-int k[] = {0, };
+int k[100];
 int answer = 0;
 
 int blackJack(int n, int m, int k[]) {
